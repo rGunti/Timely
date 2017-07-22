@@ -10,8 +10,7 @@
     <projectUrl>https://github.com/rGunti/Timely</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>
-      Timely (or Timely Extensions) is a small Library that gives you some extension methods for Dates and TimeSpan.
-      With this you can do stuff like "15.February(1996)" or "16.Minutes() + 20.Seconds()".
+      Timely (or Timely Extensions) is a small Library that gives you some shortcuts for Dates and TimeSpan. With these you can do stuff like "15.February(1996)" or "16.Minutes() + 20.Seconds()".
     </description>
     <releaseNotes>First NuGet Release</releaseNotes>
     <copyright>Copyright 2017</copyright>
