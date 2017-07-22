@@ -73,4 +73,4 @@ This project is just a test for me to learn how to write Unit Tests in VS2017 an
 That being said I hope someone finds this package useful and uses it.
 
 ## License
-This project is licensed under the MIT License. See LICENSE for more info.
+This project is licensed under the MIT License. See [LICENSE](/LICENSE) for more info.
