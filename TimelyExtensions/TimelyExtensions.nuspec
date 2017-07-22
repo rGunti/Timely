@@ -7,7 +7,7 @@
     <authors>rGunti</authors>
     <owners>rGunti</owners>
     <licenseUrl>https://raw.githubusercontent.com/rGunti/Timely/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/rGunti/Timely</projectUrl>
+    <projectUrl>https://timely.rgunti.ch</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>
       Timely (or Timely Extensions) is a small Library that gives you some shortcuts for Dates and TimeSpan. With these you can do stuff like "15.February(1996)" or "16.Minutes() + 20.Seconds()".
